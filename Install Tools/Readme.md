@@ -1,4 +1,0 @@
-Installing Kubeadm 
-
-environment : ubuntu
-
